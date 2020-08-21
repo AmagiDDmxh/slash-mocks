@@ -1,0 +1,40 @@
+{
+  "videos": [
+    {
+      "id": 0,
+      "src": "/static/video1.mp4",
+      "teacherName": "讲师王某某",
+      "watchTime": 250,
+      "commentCounts": 2,
+      "title": "王某某的视频标题",
+      "cover": "/static/video.png",
+      "vipRequired": false,
+      "playable": true,
+      "votes": 100
+    },
+    {
+      "id": 1,
+      "src": "/static/video1.mp4",
+      "teacherName": "讲师刘某某",
+      "watchTime": 125,
+      "commentCounts": 2,
+      "title": "刘某某的视频标题",
+      "cover": "/static/video.png",
+      "vipRequired": true,
+      "playable": false,
+      "votes": 5
+    },
+    {
+      "id": 2,
+      "src": "/static/video1.mp4",
+      "teacherName": "讲师李某某",
+      "watchTime": 3502,
+      "commentCounts": 2,
+      "title": "李某某的视频标题",
+      "cover": "/static/video.png",
+      "vipRequired": true,
+      "playable": true,
+      "votes": 1550
+    }
+  ]
+}
